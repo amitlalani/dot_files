@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BeautifyRuby",
+		"CForm",
+		"GitGutter",
+		"JSONLint",
+		"JsonTree",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"Puppet",
+		"Rake",
+		"RSpec",
+		"SublimeLinter-contrib-ruby-lint",
+		"Vintageous",
+		"Virtualenv",
+		"YAML Nav"
+	]
+}
